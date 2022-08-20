@@ -1,9 +1,7 @@
 <h1 align="center">
   cloudLog
-  <br>
 </h1>
 
-<br>
 <br>
 
 <p align="center">
