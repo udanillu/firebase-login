@@ -1,4 +1,6 @@
+<p>
 ## cloudLog
+</p>
 
 <p align="center">
   <img src="images/loginScreen.png" height="400" width="auto" alt="Log In Screen">
