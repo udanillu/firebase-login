@@ -1,4 +1,4 @@
-<img src="images/banner.jpg" alt="Banner">
+<img src="images/top.jpg" alt="Banner">
 
 <p align="center">
   <img src="images/loginScreen.png" height="400" width="auto" alt="Log In Screen">
