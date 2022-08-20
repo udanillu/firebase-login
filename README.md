@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/loginScreen.png" height="400" width="auto" padding="20" alt="Log In Screen">
+  <img src="images/loginScreen.png" height="400" width="auto" alt="Log In Screen">
 
   <img src="images/registerScreen.png" height="400" width="auto" alt="Register Screen">
 
