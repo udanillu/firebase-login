@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">cloudLog</string>
+
+    <string name="txtLogIn">Log In</string>
+    <string name="txtLogUp">Register</string>
+    <string name="txtRegister">Ainda não tem Cadastro? Cadastre-se</string>
+    <string name="txtEntrar">Já tem Cadastro? Logar-se</string>
+
+    <string name="edtEmail">E-mail</string>
+    <string name="edtLogin">Password</string>
+
+    <string name="btnLogin">Entrar</string>
+    <string name="btnRegister">Registrar</string>
+</resources>

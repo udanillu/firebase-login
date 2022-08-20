@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/background"
+    tools:context=".MainActivity"
+    >
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:text="@string/txtLogIn"
+        android:textSize="38sp"
+        android:textStyle="bold"
+        android:textColor="@color/textColor"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <EditText
+        android:id="@+id/edtEmail"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:textColor="@color/textColor"
+        android:drawableStart="@drawable/ic_email"
+        android:background="@drawable/custom_input"
+        android:drawablePadding="12dp"
+        android:paddingStart="12dp"
+        android:hint="@string/edtEmail"
+        android:textColorHint="@color/textColor"
+        android:inputType="textEmailAddress"
+        android:textSize="14sp"
+        />
+
+    <EditText
+        android:id="@+id/edtPassword"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:textColor="@color/textColor"
+        android:drawableStart="@drawable/ic_lock"
+        android:background="@drawable/custom_input"
+        android:drawablePadding="12dp"
+        android:paddingStart="12dp"
+        android:hint="@string/edtLogin"
+        android:textColorHint="@color/textColor"
+        android:inputType="textEmailAddress"
+        android:textSize="14sp"
+
+        />
+
+    <Button
+        android:id="@+id/btnLogar"
+        android:layout_marginTop="22dp"
+        android:text="@string/btnLogin"
+        android:textColor="@color/custom"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:backgroundTint="@color/textColor"
+        />
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/txtRegister"
+        android:text="@string/txtRegister"
+        android:textSize="17sp"
+        android:textStyle="normal"
+        android:textColor="@color/textColor"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>
