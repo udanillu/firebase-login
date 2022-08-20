@@ -1,4 +1,4 @@
 # firebase-login
 login.exe
 
-<img src="images/loginScreen" alt="Log In Screen">
+<img src="images/loginScreen.png" alt="Log In Screen">
