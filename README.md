@@ -1,5 +1,5 @@
 
-<p align="center" padding="20px">
+<p align="center" padding="120px">
   <img src="images/loginScreen.png" height="400" width="auto" alt="Log In Screen">
 
   <img src="images/registerScreen.png" height="400" width="auto" alt="Register Screen">
